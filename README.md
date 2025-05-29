@@ -87,3 +87,5 @@ If you found this helpful:
 🔔 Subscribe on Youtube Edge Neuron Channel  https://www.youtube.com/@EdgeNeuron
 🛠️ Remix or fork this project
 
+If you have any Queries or want to develop a custom casing of your own , write to kalpruh.original@gmail.com
+
