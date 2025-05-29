@@ -84,7 +84,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you found this helpful:
 
 ⭐ Star this repo  
-🔔 Subscribe on Youtube Edge Neuron Channel  https://www.youtube.com/@EdgeNeuron
+🔔 Subscribe on Youtube Edge Neuron Channel  [https://www.youtube.com/@EdgeNeuron](https://www.youtube.com/channel/UCDNInzgFARjBfBlG7Z8R_wA)
 
 🛠️ Remix or fork this project
 
